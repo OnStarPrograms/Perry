@@ -1,0 +1,86 @@
+#nav h1
+{
+    float: left;
+}
+#Links
+{
+    float: right;
+    /* margin-left: 50%; */
+    display: block;
+    padding-right:5%;
+    margin-right: 5%;
+
+}
+a
+{
+    color:white;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+a:visited
+{
+    color:white;
+}
+a:hover
+{
+    color: darkgray;
+    padding: 16px 16px;
+}
+#nav
+{
+    display: inline;
+    position: fixed;
+    top: 0%;
+    width: 100%;
+} 
+body
+{
+    background-color: #314a3f;
+    color: white;
+    font-family: serif;
+}
+
+#PK
+{
+    top: 25%;
+    left: 15%;
+    position: absolute;
+}
+
+br
+{
+    margin-bottom: 5%;
+}
+
+img
+{
+    display: inline-flex;
+}
+
+#article1
+{
+    width:30%;  
+    height: 250px;
+    display: inline-flex;
+    /* background-color: aqua;   */
+    border: 5px solid #415a3f ;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+#article1 a
+{
+    margin-left:10%;
+    margin-top:10%;
+}
+
+#PK p
+{
+    font-size: 3em;
+    text-decoration: underline;
+}
+
+#PK h1
+{
+     padding-left: 15px;
+}
